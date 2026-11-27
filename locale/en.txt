@@ -1,0 +1,49 @@
+#: locale=en
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_0C541507_02F9_532F_4167_5ED4CF515B85.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C5C7463_02E9_71E1_417D_77455809AB6C.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C88CBC2_02F7_5720_417A_5C18617B3A05.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C1400C0_02F7_B120_417F_6D10483DAEF0.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C5ACD6D_02F7_53E0_4173_70AC75E1BBAA.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C15927A_02F6_D1E1_4138_56A6873773AC.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C611BA4_02E9_B767_4175_3C9E4F609F52.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C07B919_02F9_7323_413E_FD28D66701C4.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_126BEFF7_02E9_AEEB_4181_3323E793ED32.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C5513E4_02F9_56E1_4171_246111AF134A.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C0158F1_02FA_B2E3_4185_003DAFC86CB1.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C294029_02FB_5163_4173_6A650ED9ECFF.toolTip = Tanggal Pengambilan Data : 22 November 2026
+HotspotPanoramaOverlayArea_0C0FF581_02FB_B322_417E_29C53B42077A.toolTip = Tanggal Pengambilan Data : 22 November 2026
+
+## Media
+
+### Title
+panorama_0FF4B58E_02EB_B33F_4179_4B13B805C8D4.label = 1
+panorama_09F861BB_02EB_5363_415E_72380DDBA8F6.label = 2
+panorama_09FF4DC2_02EB_5322_417D_8F83A522DDE4.label = 3
+panorama_09F8CA16_02EB_7125_4164_C4408B4481E2.label = 4
+panorama_09FF15F7_02EB_52E2_4146_92489BFE6251.label = 5
+panorama_09FF41B9_02EA_B36E_4171_1CBFF3817C89.label = 6
+panorama_09FF7DB9_02EA_B36E_4172_6B3D2648978F.label = 7
+panorama_09FEC9BA_02EA_D362_4176_A0A61252509D.label = 8
+
+## Skin
+
+### Image
+Image_3A279C77_367D_37A2_41C6_83A6D5CC7CD2.url = skin/Image_3A279C77_367D_37A2_41C6_83A6D5CC7CD2_en.png
+
+### Label
+Label_4D41DC4B_429D_C75C_41CD_EC0C08175678.text = Lahan Desa Melalui Pengalaman Virtual Interaktif
+Label_5223986E_429A_CF55_41C0_C6CCD89986A9.text = Virtual Tour Desa | V1.0.© 2026
+
+### Tooltip
+IconButton_3B66C8F8_36B3_B679_4195_F0FC4F2C8A3C.toolTip = Main Menu
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VR Lahan Lele
